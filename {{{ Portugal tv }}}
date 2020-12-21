@@ -1,1 +1,463 @@
-
+#EXTM3U
+#EXTINF:-1,Caï¿½avision (Opt-3)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1,Caï¿½avision (Opt-2)
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:-1,Caï¿½avision (Opt-1)
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1,PT | Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1,Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1,PT | Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1,Kuriakos TV (Backup)
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:-1,Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+#EXTINF:-1,Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1,TV FÃ¡tima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 ,24 KITCHEN
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16409
+#EXTINF:-1 ,78 DESTINATIONS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197088
+#EXTINF:-1 ,A&E HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8816
+#EXTINF:-1 ,ALFA TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194101
+#EXTINF:-1 ,AMC 2K
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192944
+#EXTINF:-1 ,AMC HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8845
+#EXTINF:-1 ,ANIMAL PLANET FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8890
+#EXTINF:-1 ,APRENDER A BRINCAR
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226108
+#EXTINF:-1 ,ARTE 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8833
+#EXTINF:-1 ,AUTO MOTOR SPORT Channel HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16430
+#EXTINF:-1 ,AXN FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8852
+#EXTINF:-1 ,BABY TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8922
+#EXTINF:-1 ,BAND 4K
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8938
+#EXTINF:-1 ,Band Campinas HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148401
+#EXTINF:-1 ,BAND NEWS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14486
+#EXTINF:-1 ,Band RJ HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148288
+#EXTINF:-1 ,BG MUSIC HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196536
+#EXTINF:-1 ,BIS FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24621
+#EXTINF:-1 ,BOOMERANG HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14489
+#EXTINF:-1 ,BOX TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196535
+#EXTINF:-1 ,BULGARIA ON AIR
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194097
+#EXTINF:-1 ,Canal Brasil HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14569
+#EXTINF:-1 ,Canal Ricos
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/158485
+#EXTINF:-1 ,Canal Sony
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8882
+#EXTINF:-1 ,Canal Tv RIO
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/158484
+#EXTINF:-1 ,CANAL VIVA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14553
+#EXTINF:-1 ,Cartoon Network FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8913
+#EXTINF:-1 ,CBS NEWS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194099
+#EXTINF:-1 ,Ceak TV Esrita SP
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148408
+#EXTINF:-1 ,Cine 1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198503
+#EXTINF:-1 ,Cine 2
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198504
+#EXTINF:-1 ,CINE+
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7335
+#EXTINF:-1 ,CINEMA 2020
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226110
+#EXTINF:-1 ,CINEMA INDIANO
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226109
+#EXTINF:-1 ,CINEMA TOM CRUISE
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226113
+#EXTINF:-1 ,CINEMAX FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8834
+#EXTINF:-1 ,CNN
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/225576
+#EXTINF:-1 ,CNN BRASIL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148404
+#EXTINF:-1 ,COMBATE FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8778
+#EXTINF:-1 ,COMEDY CENTRAL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8779
+#EXTINF:-1 ,COMEDY PLUS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196533
+#EXTINF:-1 ,CULTURA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14491
+#EXTINF:-1 ,CURTA! HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166654
+#EXTINF:-1 ,DIEAMA TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194095
+#EXTINF:-1 ,DIEMA FAMILY
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197086
+#EXTINF:-1 ,Discovery Channel FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8897
+#EXTINF:-1 ,Discovery Civilization HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8902
+#EXTINF:-1 ,Discovery H&H FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8904
+#EXTINF:-1 ,Discovery Kids FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8893
+#EXTINF:-1 ,Discovery Science HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8910
+#EXTINF:-1 ,Discovery THEATER FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8892
+#EXTINF:-1 ,Discovery TLC
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14496
+#EXTINF:-1 ,Discovery Turbo FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8891
+#EXTINF:-1 ,Discovery WORLD FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8894
+#EXTINF:-1 ,Disney Channel FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8895
+#EXTINF:-1 ,Disney Junior FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8916
+#EXTINF:-1 ,Disney XD FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8917
+#EXTINF:-1 ,E! HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14501
+#EXTINF:-1 ,EKIDS 2
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196532
+#EXTINF:-1 ,Fate 24/7
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/174525
+#EXTINF:-1 ,FEN TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16415
+#EXTINF:-1 ,FILM & ARTS FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/169537
+#EXTINF:-1 ,FilmBox EXTRA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16377
+#EXTINF:-1 ,FILMES WESTERN
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226111
+#EXTINF:-1 ,FISH TV FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8848
+#EXTINF:-1 ,FOLKOR
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16407
+#EXTINF:-1 ,FOOD Network FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8863
+#EXTINF:-1 ,FOX BRASIL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/23821
+#EXTINF:-1 ,FOX Crime
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16366
+#EXTINF:-1 ,FOX FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8817
+#EXTINF:-1 ,FOX Life FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8818
+#EXTINF:-1 ,FOX PREMIUM 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8819
+#EXTINF:-1 ,Fox Premium 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8820
+#EXTINF:-1 ,FUTURA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7342
+#EXTINF:-1 ,FX FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8835
+#EXTINF:-1 ,GINX eSPORTS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166656
+#EXTINF:-1 ,GLOBO BAHIA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14598
+#EXTINF:-1 ,GLOBO Brasilia HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24556
+#EXTINF:-1 ,GLOBO EPTV CAMPINAS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24554
+#EXTINF:-1 ,GLOBO EPTV Sao Carlos HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14594
+#EXTINF:-1 ,Globo Fortaleza
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/36851
+#EXTINF:-1 ,GLOBO INTERNACIONAL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24553
+#EXTINF:-1 ,GLOBO Minas HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24552
+#EXTINF:-1 ,GLOBO NEWS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14513
+#EXTINF:-1 ,GLOBO Nordeste HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24551
+#EXTINF:-1 ,Globo NSC TV FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201034
+#EXTINF:-1 ,GLOBO RBS Porto Alegre HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148423
+#EXTINF:-1 ,Globo RBS TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201035
+#EXTINF:-1 ,GLOBO Ribeirao Preto HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182186
+#EXTINF:-1 ,GLOBO RIO GRANDE DO NORTE HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182175
+#EXTINF:-1 ,GLOBO RJ HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/30437
+#EXTINF:-1 ,GLOBO SERGIPE HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148424
+#EXTINF:-1 ,GLOBO SP EPTV RIBEIRAO HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148428
+#EXTINF:-1 ,GLOBO SP HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192626
+#EXTINF:-1 ,GLOBO SP TV TRIBUNA FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182170
+#EXTINF:-1 ,Globo Tribuna Santos
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24546
+#EXTINF:-1 ,GLOBO TV Liberal Belem HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182183
+#EXTINF:-1 ,GLOBO TV RIO SUL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147277
+#EXTINF:-1 ,GLOBO TV Verdes Mares Fortaleza HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148290
+#EXTINF:-1 ,Globosat HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/90168
+#EXTINF:-1 ,GLOOB HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14605
+#EXTINF:-1 ,Gloobinho HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148406
+#EXTINF:-1 ,GNT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8856
+#EXTINF:-1 ,H2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192946
+#EXTINF:-1 ,HBO 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8821
+#EXTINF:-1 ,HBO 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16379
+#EXTINF:-1 ,HBO Family FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8839
+#EXTINF:-1 ,HBO FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8822
+#EXTINF:-1 ,HBO MUNDI HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8837
+#EXTINF:-1 ,HBO PLUS FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8823
+#EXTINF:-1 ,HBO POP HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/173434
+#EXTINF:-1 ,HBO Signature FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8836
+#EXTINF:-1 ,HBO XTREME HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8824
+#EXTINF:-1 ,HGTV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147274
+#EXTINF:-1 ,History 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14516
+#EXTINF:-1 ,History Channel HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8901
+#EXTINF:-1 ,Investigation Discovery HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14529
+#EXTINF:-1 ,ITV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201931
+#EXTINF:-1 ,JimJam
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16389
+#EXTINF:-1 ,KINO NOVA
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196530
+#EXTINF:-1 ,LIFE TIME FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8864
+#EXTINF:-1 ,MAGIC TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197084
+#EXTINF:-1 ,MAIS Globosat HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/172474
+#EXTINF:-1 ,MAX HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192947
+#EXTINF:-1 ,Max Prime HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192948
+#EXTINF:-1 ,MAX SPORT 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197083
+#EXTINF:-1 ,MAX SPORT 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196529
+#EXTINF:-1 ,Max Up HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8841
+#EXTINF:-1 ,MEGAPIX FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8842
+#EXTINF:-1 ,MTV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147283
+#EXTINF:-1 ,MULTISHOW FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14528
+#EXTINF:-1 ,NAT GEO FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14531
+#EXTINF:-1 ,NAT GEO Kids FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8914
+#EXTINF:-1 ,NAT GEO WILD FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8905
+#EXTINF:-1 ,NETFLIX KIDS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226114
+#EXTINF:-1 ,Nick Brasil
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198543
+#EXTINF:-1 ,Nick Junior HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8919
+#EXTINF:-1 ,nickelodeon FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16391
+#EXTINF:-1 ,NOVA TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196528
+#EXTINF:-1 ,OFF FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14532
+#EXTINF:-1 ,PARAMOUNT Channel HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8859
+#EXTINF:-1 ,PFC
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201178
+#EXTINF:-1 ,PREMIERE 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194530
+#EXTINF:-1 ,Premiere 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8786
+#EXTINF:-1 ,Premiere 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8787
+#EXTINF:-1 ,PREMIERE 4 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8788
+#EXTINF:-1 ,PREMIERE 5 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8790
+#EXTINF:-1 ,Premiere 6 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8791
+#EXTINF:-1 ,Premiere 7
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8798
+#EXTINF:-1 ,PREMIERE CLUBES HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14640
+#EXTINF:-1 ,PREMIERE HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8785
+#EXTINF:-1 ,RBA TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166057
+#EXTINF:-1 ,RECORD Amazonas HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/39866
+#EXTINF:-1 ,Record Ba HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148400
+#EXTINF:-1 ,RECORD Campinas HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14538
+#EXTINF:-1 ,RECORD DF HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147285
+#EXTINF:-1 ,RECORD HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10872
+#EXTINF:-1 ,RECORD MG HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24545
+#EXTINF:-1 ,RECORD NEWS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14540
+#EXTINF:-1 ,RECORD Nordeste HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14539
+#EXTINF:-1 ,RECORD Rio de Janeiro FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182201
+#EXTINF:-1 ,Record RJ HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/27204
+#EXTINF:-1 ,RECORD SÃ£o Paulo HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/182200
+#EXTINF:-1 ,RedBull TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8792
+#EXTINF:-1 ,REDE BRASIL HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7354
+#EXTINF:-1 ,REDE NEW
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/174515
+#EXTINF:-1 ,REDE TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7359
+#EXTINF:-1 ,SBT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7367
+#EXTINF:-1 ,SBT NORDESTE FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/199630
+#EXTINF:-1 ,SBT Rio Grande HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24541
+#EXTINF:-1 ,SBT RJ
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148295
+#EXTINF:-1 ,SONY HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14541
+#EXTINF:-1 ,SPACE HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14542
+#EXTINF:-1 ,STUDIO UNIVERSAL FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8826
+#EXTINF:-1 ,SUMMER TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201933
+#EXTINF:-1 ,SYFY HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14485
+#EXTINF:-1 ,TBS HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14649
+#EXTINF:-1 ,TCM HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8853
+#EXTINF:-1 ,TELECINE ACTION FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8832
+#EXTINF:-1 ,TELECINE CULT FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8843
+#EXTINF:-1 ,TELECINE FUN FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8831
+#EXTINF:-1 ,TELECINE PIPOCA FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8830
+#EXTINF:-1 ,TELECINE Premium FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8829
+#EXTINF:-1 ,TELECINE Touch FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8828
+#EXTINF:-1 ,The History Channel
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201925
+#EXTINF:-1 ,THE VOICE
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196523
+#EXTINF:-1 ,TIANKOV FOLK
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/199631
+#EXTINF:-1 ,TLC HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7370
+#EXTINF:-1 ,TNT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8840
+#EXTINF:-1 ,TNT Series FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8827
+#EXTINF:-1 ,TOM SAWYER
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226112
+#EXTINF:-1 ,TOONCAST HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8927
+#EXTINF:-1 ,TV Assembl
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166063
+#EXTINF:-1 ,TV Brasil
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/24284
+#EXTINF:-1 ,TV Brasil Df
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148422
+#EXTINF:-1 ,TV Caruaru Pe
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148415
+#EXTINF:-1 ,TV Cidade Canal 9
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/201936
+#EXTINF:-1 ,TV Cidade Verde
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198238
+#EXTINF:-1 ,TV CULTURA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/23827
+#EXTINF:-1 ,TV DIARIO HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/22361
+#EXTINF:-1 ,TV PARANA
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166056
+#EXTINF:-1 ,TV PLUS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16386
+#EXTINF:-1 ,TV Po
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/152387
+#EXTINF:-1 ,TV Ra Tim Bum HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148405
+#EXTINF:-1 ,TV Universal
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166074
+#EXTINF:-1 ,TVci Pr
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148419
+#EXTINF:-1 ,TVE BAHIA
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/22364
+#EXTINF:-1 ,TVE TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198466
+#EXTINF:-1 ,UNIVERSAL TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/7422
+#EXTINF:-1 ,Universp TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/174519
+#EXTINF:-1 ,VH1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14658
+#EXTINF:-1 ,VIASAT EXPLORE
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196521
+#EXTINF:-1 ,Viva HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192945
+#EXTINF:-1 ,Warner Bros FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/8825
+#EXTINF:-1 ,Warner Bross HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198467
+#EXTINF:-1 ,WB KIDS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/226107
+#EXTINF:-1 ,WOHOO FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197078
+#EXTINF:-1 ,WOOHO
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198502
+#EXTINF:-1 ,WOOHOO HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14555
+#EXTINF:-1 ,ZOOMO FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197077
+#EXTINF:-1 ,ZOOMOO FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/14661
